@@ -11,7 +11,7 @@ const Navbar = () => {
             <img src={ailogo} alt='logo'  className='w-full h-full object-contain'/>
             </div>
             <button type="button" 
-             onClick={()=>window.open(`https://github.com/sm-creative-crazy4code/AI-Summarizerapp` )}
+             onClick={()=>window.open(`https://github.com/sm-creative-crazy4code/aiproof--application` )}
             className="@apply rounded-full border border-black bg-black py-1.5 px-5 text-sm text-white transition-all hover:bg-white hover:text-black">
              GitHub
             </button>
